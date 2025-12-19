@@ -1,11 +1,16 @@
 ## Hi there 👋
+I'm Jos Thomas, a Computer Science student at DePaul University with hands-on experience in software development and research, building Python-based tools, data pipelines, and workflow automation. 
 
+- 🔭 I’m currently working on developing machine-learned interatomic potentials.
+- 🌱 I recently built a multi-agent mobile QA system for Obsidian Android using Supervisor–Planner–Executor architecture.
+
+   - 📫 How to reach me: jos_tm@icloud.com
 <!--
 **jtcodes1/jtcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on developing machine-learned interatomic potentials.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
