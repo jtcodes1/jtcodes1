@@ -11,6 +11,7 @@ I’m Jos Thomas, a Junior Computer Science student at DePaul University with ex
 🌐 Website: https://jtcodes1.github.io
 
 📫 Contact: jthomassss21@gmail.com
+
 📫 LANL Email: jost@lanl.gov
 <!--
 **jtcodes1/jtcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
