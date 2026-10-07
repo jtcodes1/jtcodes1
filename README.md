@@ -10,7 +10,8 @@ I’m Jos Thomas, a Junior Computer Science student at DePaul University with ex
 
 🌐 Website: https://jtcodes1.github.io
 
-📫 Contact: jos_tm@icloud.com
+📫 Contact: jthomassss21@gmail.com
+            jost@lanl.gov
 <!--
 **jtcodes1/jtcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
