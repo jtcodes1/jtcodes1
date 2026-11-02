@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Jos Thomas, a Junior Computer Science student at DePaul University with experience in software development and research, building Python-based tools, data pipelines, and automation systems.
+I’m Jos Thomas, a Senior Computer Science student at DePaul University with experience in software development and research, building Python-based tools, data pipelines, and automation systems.
 
 🔭 Currently working on machine-learned interatomic potentials
 
