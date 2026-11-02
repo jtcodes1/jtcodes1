@@ -1,29 +1,15 @@
-## Hi there 👋
-I’m Jos Thomas, a Senior Computer Science student at DePaul University with experience in software development and research, building Python-based tools, data pipelines, and automation systems.
+# Hi, I'm Jos Thomas 👋
 
-🔭 Currently working on machine-learned interatomic potentials
+I'm a senior studying **Computer Science at DePaul University** and an undergraduate researcher at **Los Alamos National Laboratory (LANL)**. My research focuses on scientific computing, particularly developing numerical algorithms and high-performance software for large-scale molecular dynamics simulations.
 
-🌱 Most recently developed a multi-agent mobile QA system for Obsidian Android using a Supervisor–Planner–Executor architecture
+At LANL, **I created ALAMOS**, a multiscale approximate-inverse preconditioner designed to accelerate charge-response calculations. I also developed **ALAMOS-0**, which enables Shadow Extended Lagrangian Born–Oppenheimer Molecular Dynamics (Shadow XL-BOMD) simulations without Krylov corrective iterations. Using ALAMOS-0, I've run simulations involving **104,640 atoms over 100 ps** without requiring those corrective iterations. I'm also implementing Shadow XL-BOMD and ALAMOS in **LAMMPS using C++ and MPI**.
 
-👉 [Multi-Agent Mobile QA System](https://github.com/jtcodes1/mobile-qa-multi-agent)  
-<br>
+Outside of research, I enjoy building software, experimenting with new technologies, and working on side projects. One of my projects is a [Multi-Agent Mobile QA System](https://github.com/jtcodes1/mobile-qa-multi-agent) for testing Obsidian on Android, built around a Supervisor–Planner–Executor architecture. I also enjoy building PCs and 3D printing.
 
-🌐 Website: https://jtcodes1.github.io
+### Find me online
 
-📫 Contact: jthomassss21@gmail.com
-
-📫 LANL Email: jost@lanl.gov
-<!--
-**jtcodes1/jtcodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing machine-learned interatomic potentials.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Website:** [jtcodes1.github.io](https://jtcodes1.github.io/)
+- 💼 **LinkedIn:** [Jos Thomas](https://www.linkedin.com/in/jos-thomas/)
+- ✍️ **Technical Writing:** [How-To Geek](https://www.howtogeek.com/author/jos-thomas/)
+- 📫 **Email:** [jthomassss21@gmail.com](mailto:jthomassss21@gmail.com)
+- 🔬 **LANL Email:** [jost@lanl.gov](mailto:jost@lanl.gov)
